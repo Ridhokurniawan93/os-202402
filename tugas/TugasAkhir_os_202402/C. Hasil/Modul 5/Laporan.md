@@ -50,7 +50,7 @@ Menambahkan fitur audit untuk mencatat semua system call yang dipanggil oleh pro
 ```
 Access denied or error.
 ```
-
+![hasil cowtest](./screnshot/modul5.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
