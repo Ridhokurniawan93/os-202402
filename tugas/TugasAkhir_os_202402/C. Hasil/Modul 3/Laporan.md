@@ -82,6 +82,7 @@ Child reads: A
 Parent reads: B
 ```
 ![hasil cowtest](./screnshot/modul3A.png)
+![hasil cowtest](./screnshot/modul3B.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
