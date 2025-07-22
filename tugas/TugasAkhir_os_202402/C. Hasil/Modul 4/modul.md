@@ -248,6 +248,7 @@ int main() {
 241 6 82 99 12 201 44 73
 ```
 ![hasil cowtest](./screnshot/modul4.png)
+![hasil cowtest](./screnshot/modul4B.png)
 ---
 
 ## 🔧 Tambahan: Integrasi ke Makefile
