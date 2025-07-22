@@ -81,7 +81,7 @@ if(fork() == 0){
 Child reads: A
 Parent reads: B
 ```
-
+![hasil cowtest](./screnshot/modul3.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
