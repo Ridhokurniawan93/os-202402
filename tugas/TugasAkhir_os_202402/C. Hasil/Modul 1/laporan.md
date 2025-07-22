@@ -56,6 +56,8 @@ Read Count Sebelum: 4
 hello
 Read Count Setelah: 5
 ```
+### Screenshot
+![hasil rtest dan ptest](./screenshots/modul.png)
 
 ---
 
