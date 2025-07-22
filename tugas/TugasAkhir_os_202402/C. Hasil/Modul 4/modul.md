@@ -243,11 +243,11 @@ int main() {
 
 ### ✅ Output Diharapkan (acak):
 
-![hasil cowtest](./screenshots/modul4.png)
+
 ```
 241 6 82 99 12 201 44 73
 ```
-
+![hasil cowtest](./screnshot/modul4.png)
 ---
 
 ## 🔧 Tambahan: Integrasi ke Makefile
