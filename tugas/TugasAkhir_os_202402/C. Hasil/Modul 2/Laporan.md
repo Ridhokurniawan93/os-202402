@@ -63,7 +63,7 @@ if (pid2 == 0) {
   exit();
 }
 ```
-
+![hasil cowtest](./screnshot/modul2.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
