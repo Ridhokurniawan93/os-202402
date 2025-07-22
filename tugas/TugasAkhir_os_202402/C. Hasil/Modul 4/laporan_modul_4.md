@@ -70,7 +70,7 @@ Write blocked as expected
 Jika ada screenshot:
 
 ```
-![hasil cowtest](./screenshots/cowtest_output.png)
+![hasil cowtest](./screnshot/modul4.png)
 ```
 
 ---
