@@ -5,6 +5,7 @@
 **Semester**: Genap / Tahun Ajaran 2024–2025  
 **Nama**: Ridho Kurniawan  
 **NIM**: 240202881
+
 **Modul yang Dikerjakan**: Modul 2 – Penjadwalan CPU Lanjutan (Priority Scheduling Non-Preemptive)
 
 ---
