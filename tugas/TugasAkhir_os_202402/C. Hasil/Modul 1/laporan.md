@@ -3,7 +3,8 @@
 
 **Mata Kuliah**: Sistem Operasi  
 **Semester**: Genap / Tahun Ajaran 2024–2025  
-**Nama**: Ridho Kurniawan
+**Nama**: Ridho Kurniawan       
+
 **NIM**: 240202881  
 **Modul yang Dikerjakan**: Modul 1 – System Call dan Instrumentasi Kernel
 
